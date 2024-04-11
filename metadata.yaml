@@ -1,0 +1,40 @@
+_repo: Essentials-of-prayer_73271
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bounds, Edward M. (Edward McKendree)
+    aliases:
+    - Bounds, E. M. (Edward McKendree)
+    - Bounds, Edward McKendree
+    birthdate: 1835
+    deathdate: 1913
+    gutenberg_agent_id: '52476'
+    url: http://www.gutenberg.org/2009/agents/52476
+    wikipedia: https://en.wikipedia.org/wiki/Edward_McKendree_Bounds
+  editor:
+    agent_name: Hodge, Homer W. (Homer Werle)
+    birthdate: 1859
+    gutenberg_agent_id: '55847'
+    url: http://www.gutenberg.org/2009/agents/55847
+description: ''
+gutenberg_issued: '2024-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73271'
+  lccn: '25009228'
+language: en
+pgterms:marc905: 20190810223134edwardmcke
+pgterms:marc906: '1925'
+pgterms:marc907: us
+production_note: Carol Brown, Brian Wilson and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aNew York :$bFlemming H. Revell Company, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prayer -- Christianity'
+- !lcc 'BV'
+- GITenberg
+title: Essentials of prayer
+url: http://www.gutenberg.org/ebooks/73271
